@@ -172,3 +172,7 @@ Git技巧：使用 git pull --rebase 可以在拉取远程更新时将本地未�
 日期：2026-08-24
 维护：trae自动化任务 - 保持仓库活跃
 Git技巧：使用 git tag -a <tagname> -m <message> 可以创建带注释的标签，便于版本管理和发布。
+
+日期：2026-08-25
+维护：trae自动化任务 - 保持仓库活跃
+Git技巧：使用 git push -u origin <branch> 可以推送本地分支到远程并建立追踪关系。
