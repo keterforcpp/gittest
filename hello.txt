@@ -176,3 +176,7 @@ Git技巧：使用 git tag -a <tagname> -m <message> 可以创建带注释的标
 日期：2026-08-25
 维护：trae自动化任务 - 保持仓库活跃
 Git技巧：使用 git push -u origin <branch> 可以推送本地分支到远程并建立追踪关系。
+
+日期：2026-08-26
+维护：trae自动化任务 - 保持仓库活跃
+Git技巧：使用 git log --author <name> 可以按提交者筛选查看提交历史。
